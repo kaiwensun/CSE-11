@@ -1,0 +1,29 @@
+grid 20 40
+rectangle 1 5
+rectangle 5 1
+rectangle 1 2
+rectangle 2 1
+oval 5 5
+place 0 4 5
+place 1 5 5
+place 0 10 5 
+place 0 4 12
+place 3 5 12
+place 0 7 12
+place 3 8 16
+place 0 10 12
+place 0 4 19
+place 3 5 19
+place 0 7 19
+place 3 8 19
+place 0 10 19
+place 3 4  29  
+place 3 4  34
+place 1 6  29
+place 1 6  34
+place 4 15 5
+place 4 15 11
+place 4 15 17
+place 4 15 23
+place 4 15 29
+print
